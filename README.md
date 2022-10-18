@@ -1,7 +1,7 @@
 Olá! Me chamo Lucas e sou estudante de front-and
 ##
-- 🔭 Trabalho como jovem aprendiz
-- 🌱 Estudande de Front-and, aprendendo React
+- 🔭 Trabalho como jovem aprendiz;
+- 🌱 Estudande de programação;
 ##
 <div align="center">
   <a href="https://github.com/portella0803">
