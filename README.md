@@ -1,6 +1,5 @@
 Olá! Me chamo Lucas e sou estudante de front-and
 ##
-- 🔭 Trabalho como jovem aprendiz;
 - 🌱 Estudande de programação;
 ##
 <div align="center">
